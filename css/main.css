@@ -2,19 +2,22 @@
     width: 450px;
     margin: 10px auto;
 }
-#wrap object{
-    width: 450px;
-}
 #contact{
     position: fixed;
     right: 0;
     bottom: 0;
-    padding: 0.5em;
+    padding: 5px;
     background-color: #CB9;
     border: 1px solid #DCA;
     border-top-left-radius: 10px;
+    text-align: center;
 }
 #contact a{
     text-decoration: none;
     color: brown;
+}
+#validators {
+    font-size: 0.6em;
+    display: block;
+    margin-top: 5px;
 }
