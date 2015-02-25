@@ -2,6 +2,9 @@
     width: 450px;
     margin: 10px auto;
 }
+#wrap object{
+    width: 450px;
+}
 #contact{
     position: fixed;
     right: 0;
